@@ -1,7 +1,7 @@
 # Frozen_lake (https://gym.openai.com/envs/FrozenLake-v0/)
 This code implements a reinforcement learning agent. 
 Agent uses policy iteration at each step to choose policy that can maximize reward.
-policy iteration approach works fine becuase of limited size of policy space.
+policy iteration approach works fine becuase of limited size of Q-table.
 
 
 Agent plays 10000 episodes calculating avarage reward every 1000 episodes.
