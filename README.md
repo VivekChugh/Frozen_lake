@@ -8,7 +8,9 @@ Agent plays 10000 episodes calculating avarage reward every 1000 episodes.
 Then it plays 10 games to check how well it has trained.
 
 C:\Users\VCHUGH\Desktop\RL>python frozen_lake.py
+
 Train agent for 10000 episodes....
+
 Training episode num: 0
 
 Training episode num: 1000
